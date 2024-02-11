@@ -1,0 +1,4358 @@
+fileFormatVersion: 2
+guid: 14c769b7cf69b4546b162a6f3aed1b2a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7888388945864446369
+    second: Set_A_TechFortress2_0
+  - first:
+      213: -6456195444352991601
+    second: Set_A_TechFortress2_1
+  - first:
+      213: -2607045029615535322
+    second: Set_A_TechFortress2_2
+  - first:
+      213: -7840571333973184967
+    second: Set_A_TechFortress2_3
+  - first:
+      213: 6785617269840948920
+    second: Set_A_TechFortress2_4
+  - first:
+      213: 8904152780182536292
+    second: Set_A_TechFortress2_5
+  - first:
+      213: 55042042507888484
+    second: Set_A_TechFortress2_6
+  - first:
+      213: -8850425446738186364
+    second: Set_A_TechFortress2_7
+  - first:
+      213: 1308955428730152552
+    second: Set_A_TechFortress2_8
+  - first:
+      213: -3670388966726383096
+    second: Set_A_TechFortress2_9
+  - first:
+      213: 8869125397183879775
+    second: Set_A_TechFortress2_10
+  - first:
+      213: -1501334268080573073
+    second: Set_A_TechFortress2_11
+  - first:
+      213: 2209536433436612735
+    second: Set_A_TechFortress2_12
+  - first:
+      213: -9098238489201964209
+    second: Set_A_TechFortress2_13
+  - first:
+      213: -7544775743436163272
+    second: Set_A_TechFortress2_14
+  - first:
+      213: -3997605478631718847
+    second: Set_A_TechFortress2_15
+  - first:
+      213: 4249692606178599167
+    second: Set_A_TechFortress2_16
+  - first:
+      213: 2472167682312769140
+    second: Set_A_TechFortress2_17
+  - first:
+      213: -7667573239010841871
+    second: Set_A_TechFortress2_18
+  - first:
+      213: 7746354390781574339
+    second: Set_A_TechFortress2_19
+  - first:
+      213: 1301244988804110722
+    second: Set_A_TechFortress2_20
+  - first:
+      213: 5081810757848671648
+    second: Set_A_TechFortress2_21
+  - first:
+      213: -7208304533177590635
+    second: Set_A_TechFortress2_22
+  - first:
+      213: -5795746433644388634
+    second: Set_A_TechFortress2_23
+  - first:
+      213: -2554492324113222210
+    second: Set_A_TechFortress2_24
+  - first:
+      213: 6474188917186123222
+    second: Set_A_TechFortress2_25
+  - first:
+      213: -2481893480706086832
+    second: Set_A_TechFortress2_26
+  - first:
+      213: 1823411337992721281
+    second: Set_A_TechFortress2_27
+  - first:
+      213: 5883848689759076513
+    second: Set_A_TechFortress2_28
+  - first:
+      213: 5373994434307144282
+    second: Set_A_TechFortress2_29
+  - first:
+      213: 6103469701029641062
+    second: Set_A_TechFortress2_30
+  - first:
+      213: 7879394793311239276
+    second: Set_A_TechFortress2_31
+  - first:
+      213: -7510230873009896560
+    second: Set_A_TechFortress2_32
+  - first:
+      213: 1986375742214392994
+    second: Set_A_TechFortress2_33
+  - first:
+      213: 2876687756882705549
+    second: Set_A_TechFortress2_34
+  - first:
+      213: -7586821516854988086
+    second: Set_A_TechFortress2_35
+  - first:
+      213: 3382431665947896903
+    second: Set_A_TechFortress2_36
+  - first:
+      213: 6484426900663271938
+    second: Set_A_TechFortress2_37
+  - first:
+      213: -7872394357426064927
+    second: Set_A_TechFortress2_38
+  - first:
+      213: -4756544484933389243
+    second: Set_A_TechFortress2_39
+  - first:
+      213: 6763053144749420429
+    second: Set_A_TechFortress2_40
+  - first:
+      213: -7416894854987128585
+    second: Set_A_TechFortress2_41
+  - first:
+      213: -1930735039428257190
+    second: Set_A_TechFortress2_42
+  - first:
+      213: -933550336942982296
+    second: Set_A_TechFortress2_43
+  - first:
+      213: 2581563687930855764
+    second: Set_A_TechFortress2_44
+  - first:
+      213: 5115396514104233222
+    second: Set_A_TechFortress2_45
+  - first:
+      213: 921334631658476569
+    second: Set_A_TechFortress2_46
+  - first:
+      213: 4944936457955812335
+    second: Set_A_TechFortress2_47
+  - first:
+      213: -4819873825874993756
+    second: Set_A_TechFortress2_48
+  - first:
+      213: -1925937093822286759
+    second: Set_A_TechFortress2_49
+  - first:
+      213: -3796912238457467792
+    second: Set_A_TechFortress2_50
+  - first:
+      213: 5348955177048404752
+    second: Set_A_TechFortress2_51
+  - first:
+      213: 3852930054321807307
+    second: Set_A_TechFortress2_52
+  - first:
+      213: -3512663153469301749
+    second: Set_A_TechFortress2_53
+  - first:
+      213: -818208126616672684
+    second: Set_A_TechFortress2_54
+  - first:
+      213: -4783161351318065960
+    second: Set_A_TechFortress2_55
+  - first:
+      213: -772126931397470842
+    second: Set_A_TechFortress2_56
+  - first:
+      213: -604405230761156128
+    second: Set_A_TechFortress2_57
+  - first:
+      213: -3985163462368600443
+    second: Set_A_TechFortress2_58
+  - first:
+      213: 2031314003419914337
+    second: Set_A_TechFortress2_59
+  - first:
+      213: 2055136700477210807
+    second: Set_A_TechFortress2_60
+  - first:
+      213: 3580088001430151712
+    second: Set_A_TechFortress2_61
+  - first:
+      213: 280301115269882742
+    second: Set_A_TechFortress2_62
+  - first:
+      213: 7770185877352223606
+    second: Set_A_TechFortress2_63
+  - first:
+      213: -9084855238582433418
+    second: Set_A_TechFortress2_64
+  - first:
+      213: 2273397107196795041
+    second: Set_A_TechFortress2_65
+  - first:
+      213: 2703699263647541807
+    second: Set_A_TechFortress2_66
+  - first:
+      213: 8260510798916670679
+    second: Set_A_TechFortress2_67
+  - first:
+      213: 8105660292332946959
+    second: Set_A_TechFortress2_68
+  - first:
+      213: -26750784238497757
+    second: Set_A_TechFortress2_69
+  - first:
+      213: -6405687916236692603
+    second: Set_A_TechFortress2_70
+  - first:
+      213: 5119409071755837635
+    second: Set_A_TechFortress2_71
+  - first:
+      213: 7422922818981889900
+    second: Set_A_TechFortress2_72
+  - first:
+      213: 1361900577966821859
+    second: Set_A_TechFortress2_73
+  - first:
+      213: 6180715770603747597
+    second: Set_A_TechFortress2_74
+  - first:
+      213: 655388392860934904
+    second: Set_A_TechFortress2_75
+  - first:
+      213: 2184656136950036372
+    second: Set_A_TechFortress2_76
+  - first:
+      213: -1868434415776831084
+    second: Set_A_TechFortress2_77
+  - first:
+      213: 5457543302540523651
+    second: Set_A_TechFortress2_78
+  - first:
+      213: -4016640530928236487
+    second: Set_A_TechFortress2_79
+  - first:
+      213: -5805859083337765340
+    second: Set_A_TechFortress2_80
+  - first:
+      213: -764019942565022543
+    second: Set_A_TechFortress2_81
+  - first:
+      213: 2708860727620954960
+    second: Set_A_TechFortress2_82
+  - first:
+      213: -7371017981210217869
+    second: Set_A_TechFortress2_83
+  - first:
+      213: 481132979877640980
+    second: Set_A_TechFortress2_84
+  - first:
+      213: -5807679701142257734
+    second: Set_A_TechFortress2_85
+  - first:
+      213: 2306674286491885808
+    second: Set_A_TechFortress2_86
+  - first:
+      213: -6212311424954207476
+    second: Set_A_TechFortress2_87
+  - first:
+      213: -6280815164156253829
+    second: Set_A_TechFortress2_88
+  - first:
+      213: -5161072247042066472
+    second: Set_A_TechFortress2_89
+  - first:
+      213: 4461665479158087259
+    second: Set_A_TechFortress2_90
+  - first:
+      213: 2746085698967955511
+    second: Set_A_TechFortress2_91
+  - first:
+      213: 3263027156354178892
+    second: Set_A_TechFortress2_92
+  - first:
+      213: 6191505495767970751
+    second: Set_A_TechFortress2_93
+  - first:
+      213: -2428199131061678874
+    second: Set_A_TechFortress2_94
+  - first:
+      213: 6150250376637689171
+    second: Set_A_TechFortress2_95
+  - first:
+      213: 6998981909235372006
+    second: Set_A_TechFortress2_96
+  - first:
+      213: -6662354978922963749
+    second: Set_A_TechFortress2_97
+  - first:
+      213: -2230004329212875930
+    second: Set_A_TechFortress2_98
+  - first:
+      213: -2084800171441417929
+    second: Set_A_TechFortress2_99
+  - first:
+      213: -4759634733278441304
+    second: Set_A_TechFortress2_100
+  - first:
+      213: 3986464706788114104
+    second: Set_A_TechFortress2_101
+  - first:
+      213: 3694645504472902889
+    second: Set_A_TechFortress2_102
+  - first:
+      213: 7807805037041549208
+    second: Set_A_TechFortress2_103
+  - first:
+      213: 2979781397349404509
+    second: Set_A_TechFortress2_104
+  - first:
+      213: 4437264845838885994
+    second: Set_A_TechFortress2_105
+  - first:
+      213: -1587910712625620230
+    second: Set_A_TechFortress2_106
+  - first:
+      213: -2459265029011190002
+    second: Set_A_TechFortress2_107
+  - first:
+      213: 5167171350231415110
+    second: Set_A_TechFortress2_108
+  - first:
+      213: -6741578932657958531
+    second: Set_A_TechFortress2_109
+  - first:
+      213: 7606028524546756826
+    second: Set_A_TechFortress2_110
+  - first:
+      213: -8324116415852567799
+    second: Set_A_TechFortress2_111
+  - first:
+      213: 2216748303764478126
+    second: Set_A_TechFortress2_112
+  - first:
+      213: -6251259856407274522
+    second: Set_A_TechFortress2_113
+  - first:
+      213: -6973695336298908725
+    second: Set_A_TechFortress2_114
+  - first:
+      213: 7602317977835505499
+    second: Set_A_TechFortress2_115
+  - first:
+      213: 2072140974968591293
+    second: Set_A_TechFortress2_116
+  - first:
+      213: 774068678230662183
+    second: Set_A_TechFortress2_117
+  - first:
+      213: -3825580062181358075
+    second: Set_A_TechFortress2_118
+  - first:
+      213: -8176442289571424797
+    second: Set_A_TechFortress2_119
+  - first:
+      213: -8783143635806771753
+    second: Set_A_TechFortress2_120
+  - first:
+      213: -6709686082547825958
+    second: Set_A_TechFortress2_121
+  - first:
+      213: -209656340534475906
+    second: Set_A_TechFortress2_122
+  - first:
+      213: -8664968742607942722
+    second: Set_A_TechFortress2_123
+  - first:
+      213: 6307250089539695383
+    second: Set_A_TechFortress2_124
+  - first:
+      213: 3590136357885580490
+    second: Set_A_TechFortress2_125
+  - first:
+      213: 6414275750067993188
+    second: Set_A_TechFortress2_126
+  - first:
+      213: -6088411709723214977
+    second: Set_A_TechFortress2_127
+  - first:
+      213: 2976000385037791807
+    second: Set_A_TechFortress2_128
+  - first:
+      213: -1871965575687551397
+    second: Set_A_TechFortress2_129
+  - first:
+      213: -9184993930594168927
+    second: Set_A_TechFortress2_130
+  - first:
+      213: 8231681137912154147
+    second: Set_A_TechFortress2_131
+  - first:
+      213: -6404492096003860959
+    second: Set_A_TechFortress2_132
+  - first:
+      213: -9056493288972329506
+    second: Set_A_TechFortress2_133
+  - first:
+      213: -6357560350102700938
+    second: Set_A_TechFortress2_134
+  - first:
+      213: -6552169385653703030
+    second: Set_A_TechFortress2_135
+  - first:
+      213: 4417291209031884735
+    second: Set_A_TechFortress2_136
+  - first:
+      213: -5484031225749845898
+    second: Set_A_TechFortress2_137
+  - first:
+      213: 4155733306208184956
+    second: Set_A_TechFortress2_138
+  - first:
+      213: 475957582264430941
+    second: Set_A_TechFortress2_139
+  - first:
+      213: -60634684929915514
+    second: Set_A_TechFortress2_140
+  - first:
+      213: -4831585000076695088
+    second: Set_A_TechFortress2_141
+  - first:
+      213: -1823170221810457856
+    second: Set_A_TechFortress2_142
+  - first:
+      213: -8814546031346838326
+    second: Set_A_TechFortress2_143
+  - first:
+      213: -3574414235575043760
+    second: Set_A_TechFortress2_144
+  - first:
+      213: -3373662830835219695
+    second: Set_A_TechFortress2_145
+  - first:
+      213: 6827796491556573572
+    second: Set_A_TechFortress2_146
+  - first:
+      213: -7393020478484083574
+    second: Set_A_TechFortress2_147
+  - first:
+      213: 5854733265459860584
+    second: Set_A_TechFortress2_148
+  - first:
+      213: 3001627581867427047
+    second: Set_A_TechFortress2_149
+  - first:
+      213: 2323437408882974082
+    second: Set_A_TechFortress2_150
+  - first:
+      213: -8828663632458440096
+    second: Set_A_TechFortress2_151
+  - first:
+      213: 3448219132369143336
+    second: Set_A_TechFortress2_152
+  - first:
+      213: 7013416858268094858
+    second: Set_A_TechFortress2_153
+  - first:
+      213: 7866832714047422105
+    second: Set_A_TechFortress2_154
+  - first:
+      213: 4287402966538026277
+    second: Set_A_TechFortress2_155
+  - first:
+      213: -431234786223819674
+    second: Set_A_TechFortress2_156
+  - first:
+      213: -2690705133812925524
+    second: Set_A_TechFortress2_157
+  - first:
+      213: 1363784830403330201
+    second: Set_A_TechFortress2_158
+  - first:
+      213: -8775715520212056452
+    second: Set_A_TechFortress2_159
+  - first:
+      213: 7233440792180624713
+    second: Set_A_TechFortress2_160
+  - first:
+      213: 2705401928924489919
+    second: Set_A_TechFortress2_161
+  - first:
+      213: -9008335943469721176
+    second: Set_A_TechFortress2_162
+  - first:
+      213: 3438622034116051587
+    second: Set_A_TechFortress2_163
+  - first:
+      213: -443028763979338039
+    second: Set_A_TechFortress2_164
+  - first:
+      213: 6670613686937170914
+    second: Set_A_TechFortress2_165
+  - first:
+      213: -2493671540747850991
+    second: Set_A_TechFortress2_166
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b7617acfb1499244a2daee56dc95a81
+      internalID: -7888388945864446369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 658b5fc0f79a3354eb7b1fb4277a387f
+      internalID: -6456195444352991601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfcc112ac7389aa4ab296c530426e67a
+      internalID: -2607045029615535322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 410b66434129ef04eac79aea8344c103
+      internalID: -7840571333973184967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75d9afef88a4bc24f91a7aa2d1f1bc78
+      internalID: 6785617269840948920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 180f9cdcc3ed8344dbe7a254d4cb756c
+      internalID: 8904152780182536292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92e80be7b7f19884f88003c2ed73e697
+      internalID: 55042042507888484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24840d6940e0c464d80a42d980f68e8b
+      internalID: -8850425446738186364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f52da38f496c64ba14ba71e097793d
+      internalID: 1308955428730152552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_9
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 721169515259c0e4f95200823c2d0a0d
+      internalID: -3670388966726383096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_10
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 050e132113512354bb8d00e9a7a2bea4
+      internalID: 8869125397183879775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_11
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6464a412f968fb647ad000b125ada7ad
+      internalID: -1501334268080573073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_12
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75dd7fe4b8d80f84e9c3d9c735e70a5b
+      internalID: 2209536433436612735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_13
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6030e2a87ea0914392d24c64c8fb9fb
+      internalID: -9098238489201964209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_14
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e1f0e82c6f25324b8f5f8f489a5588d
+      internalID: -7544775743436163272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_15
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e88b5c97c9a4d840a87f51de0eed543
+      internalID: -3997605478631718847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daa69df5812c0f24fa04f3769568f54e
+      internalID: 4249692606178599167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_17
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 216302c5879136f40a518a2c5a28467a
+      internalID: 2472167682312769140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_18
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f4ac9a0c5ba6754e94ed6a5c8dcd04e
+      internalID: -7667573239010841871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_19
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d7b65b9f6dd91e47abf679d9d6d3625
+      internalID: 7746354390781574339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_20
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 002279e03ae607849be1dada0d927dd1
+      internalID: 1301244988804110722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_21
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 483610ddc5bfdfd428f04035e4ced50e
+      internalID: 5081810757848671648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_22
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 354bb6a1c575b6b4489344e80b20db96
+      internalID: -7208304533177590635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_23
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f449b44aedc1654c82ba4e738d07d3a
+      internalID: -5795746433644388634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_24
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e6fdace22966664f929ea2692a04f0a
+      internalID: -2554492324113222210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_25
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e0f638bbff22ec46b83574556c8b824
+      internalID: 6474188917186123222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_26
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91c3001e4ebe1424199a0e1ccc8b968d
+      internalID: -2481893480706086832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_27
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 698cdda95547f0c4fb489d7f43112f31
+      internalID: 1823411337992721281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_28
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaa6d13038710df45b8641333d0d380e
+      internalID: 5883848689759076513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_29
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d6356c9fd45084cadadd0fdd8756fa
+      internalID: 5373994434307144282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_30
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dd359f67e414f145a1d853256cfb1f2
+      internalID: 6103469701029641062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_31
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6db2a7672158654e9daa0b2f5208109
+      internalID: 7879394793311239276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 583d19e2939590348b4e8cff1f7972d6
+      internalID: -7510230873009896560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_33
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6119716529f9a043b56317f7ffac949
+      internalID: 1986375742214392994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_34
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d651e75f51cb4f44f8eba3d23af18a2e
+      internalID: 2876687756882705549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_35
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a51be0886517b71479acba89b3e88c67
+      internalID: -7586821516854988086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_36
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1b83fd28de886d4b9db3c30e13c9f04
+      internalID: 3382431665947896903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_37
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1cca72d4cda9164898d81c0d5caf8e0
+      internalID: 6484426900663271938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_38
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e155f48a77d9d24ba3e89a0bf2c6dbd
+      internalID: -7872394357426064927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_39
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11d9f5c823c0f7b43af4ee0310a7b843
+      internalID: -4756544484933389243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_40
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38c3c4e8203f9654f921e78cf90c5cf5
+      internalID: 6763053144749420429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_41
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60b7149e548176b49987a8d083e122dd
+      internalID: -7416894854987128585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_42
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b5295b40194a6a4eab71c9e45444348
+      internalID: -1930735039428257190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_43
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 621da5fc2c3908c4094a3b4371e430a0
+      internalID: -933550336942982296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_44
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7b3a351046054e4aa3124c4af2b655f
+      internalID: 2581563687930855764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_45
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7478a2d49ce60848875ac77a0065284
+      internalID: 5115396514104233222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_46
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db906b1a9f265b840bf916be2fe1a69d
+      internalID: 921334631658476569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_47
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a430e4edbdaab654ba40670fc55edf3d
+      internalID: 4944936457955812335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8dd9df70a27bc44494431e412f166d1
+      internalID: -4819873825874993756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_49
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d41c4e8a7c2bd3c459ba01af5fa1a4de
+      internalID: -1925937093822286759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_50
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd7a489eeb73015458abf9ccabaa2b86
+      internalID: -3796912238457467792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_51
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 964c327c3b0c70742b40df4aeac517bd
+      internalID: 5348955177048404752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_52
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb9c3c92e25688f46b14d35f4ed9e1a7
+      internalID: 3852930054321807307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_53
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6532db3af7b2cf542801612302fcb317
+      internalID: -3512663153469301749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_54
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7875860c81267164d9f9f70459eef5e1
+      internalID: -818208126616672684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_55
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b81e6f7a7567d9941a895bfe25e593ed
+      internalID: -4783161351318065960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_56
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 122149f40ba3fe84ba39bc831e9ce21b
+      internalID: -772126931397470842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_57
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b85c92c91cc5284a890b25b6b494cc0
+      internalID: -604405230761156128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_58
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d296f6d3934d7640a2606ad454bdc3f
+      internalID: -3985163462368600443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_59
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b7bb110564b67b4da247bc47346a633
+      internalID: 2031314003419914337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_60
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24bf1365d66b9974ea115a1bbab5af2b
+      internalID: 2055136700477210807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_61
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d0c2d8a8eea1784c9ffd41fc7b19bb6
+      internalID: 3580088001430151712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_62
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcf16a4a0da2c1d4388cd4a9c8a30ed3
+      internalID: 280301115269882742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 903dcd2090f6cb7468e88136b8089189
+      internalID: 7770185877352223606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_64
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d387dfee8b954c4098d4709e603ab8e
+      internalID: -9084855238582433418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_65
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d093ad45cfb14741a66813fe10406e7
+      internalID: 2273397107196795041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_66
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87d540191fb92684f826d297424b3383
+      internalID: 2703699263647541807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_67
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5cdf2a2c5052474bb435253285d907f
+      internalID: 8260510798916670679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_68
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f36e2c2fbfc68b48bea21bc367f00b1
+      internalID: 8105660292332946959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_69
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 269d1ac49b425494599ef7ad335fdae7
+      internalID: -26750784238497757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_70
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac44e7db63a17304e9f69e56db0e2e9e
+      internalID: -6405687916236692603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_71
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9537b66abaf915b4b96c57dad364c99d
+      internalID: 5119409071755837635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_72
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b4cac269947dc1469a64681f5b46f47
+      internalID: 7422922818981889900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_73
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bfc6526d1ab0104aa63a9dc8360d96a
+      internalID: 1361900577966821859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_74
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79866e2d75bd67e4db4f1e2b2d6afc40
+      internalID: 6180715770603747597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_75
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17c07dcef0ff1434c84a9d200916f469
+      internalID: 655388392860934904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_76
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea95e92def1ffd640847d7defc4f5a02
+      internalID: 2184656136950036372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 175c1350553dd3d40852d930cfd206fd
+      internalID: -1868434415776831084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_78
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24986d921d6cd2443b7482087d35efe7
+      internalID: 5457543302540523651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_79
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c849140dcf77d746aa300d0ccc0f3a0
+      internalID: -4016640530928236487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_80
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed3989ba714893a4db1e3e0ff64bd80c
+      internalID: -5805859083337765340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_81
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fa72f13e905eb8499c12c333d41bb0a
+      internalID: -764019942565022543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_82
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68c53c07e74df7c49b22ffe7ffce39d7
+      internalID: 2708860727620954960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_83
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9af5b9b934f49cc499e67418b1e6a896
+      internalID: -7371017981210217869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_84
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 328abe5418cd29645bd52c12d771f7cf
+      internalID: 481132979877640980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_85
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a595ce8bc40f9d48b860f25256312d4
+      internalID: -5807679701142257734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_86
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dcc6f54409ed6e4e871b6ec452576f6
+      internalID: 2306674286491885808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_87
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: affd87be225790b459f53a6cea41a88f
+      internalID: -6212311424954207476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_88
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 365b4b1bcea0e7b47867d25c0b343e31
+      internalID: -6280815164156253829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_89
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8ce64d03c19d6249a06ab381a463cc2
+      internalID: -5161072247042066472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_90
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff83ccd0bb476d54fa0e0934dc99f2f9
+      internalID: 4461665479158087259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_91
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2c0e5453a8aed040bdc6580f247ada4
+      internalID: 2746085698967955511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_92
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05e607f6c2fefff42b997a58dfc46247
+      internalID: 3263027156354178892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_93
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7fc900b5a6fb6149b7b70a096f9744a
+      internalID: 6191505495767970751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_94
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a123541e9eabf704ca630f1225dcd18f
+      internalID: -2428199131061678874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_95
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91fc3ba030273554cac2e04462b19406
+      internalID: 6150250376637689171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_96
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c79511141f07847b45072de83a1464
+      internalID: 6998981909235372006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_97
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1590f031ed5046a4bbb218c918653cbe
+      internalID: -6662354978922963749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_98
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae633169a9b900e4884702d33384df60
+      internalID: -2230004329212875930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_99
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 750641e338ebedc46a84bc407def8ca0
+      internalID: -2084800171441417929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_100
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e6510e9b167c9342b0eea2adbe5606c
+      internalID: -4759634733278441304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_101
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee00af9ec2ca564bb2adea4f14690b4
+      internalID: 3986464706788114104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_102
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5b4b8eca04ede94b85b85b5461e2330
+      internalID: 3694645504472902889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_103
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 944767a9ac32e2a4bbf64ca6d7f56350
+      internalID: 7807805037041549208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_104
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f4e39e1f43d58941924229b40d24758
+      internalID: 2979781397349404509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_105
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbee8a6fcc425a14a9bc5dd4e3bbf725
+      internalID: 4437264845838885994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_106
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb28ef49d736db344842eb1c7d0ecbe2
+      internalID: -1587910712625620230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_107
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b6c4f238cbb979419305b868cfa8a19
+      internalID: -2459265029011190002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_108
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9f01d829c42f2143b41a947e7196ef6
+      internalID: 5167171350231415110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_109
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c58881ab51263241938b390c1700bf1
+      internalID: -6741578932657958531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_110
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5403fe1112126f840890d02b65dd29cc
+      internalID: 7606028524546756826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_111
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c08a109b3f78a14fa3173b08c6c89fd
+      internalID: -8324116415852567799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_112
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4266577c8f450b8489825adad7a75b5f
+      internalID: 2216748303764478126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_113
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 648679741677cdf42beea45a93220c56
+      internalID: -6251259856407274522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_114
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 729d88b8da3275a4dbc576dde081d17c
+      internalID: -6973695336298908725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_115
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dac674f40c41ef84da87a4047ca2fa83
+      internalID: 7602317977835505499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_116
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 374dfddbff8727a459ed6a9678b85096
+      internalID: 2072140974968591293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_117
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d60c03deb33d4b34f8613cf08e19af1b
+      internalID: 774068678230662183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_118
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8168e3055e8e0a7459c3f535a3324ce9
+      internalID: -3825580062181358075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_119
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fb0286336716d64a8775d835a862832
+      internalID: -8176442289571424797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_120
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 934965f7df53ebf45b2e6a0fc4cfa3f3
+      internalID: -8783143635806771753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_121
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a78c297278e28304db06556b3756e454
+      internalID: -6709686082547825958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_122
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 170f1e958cbd83b4f9a04f2cbbaed716
+      internalID: -209656340534475906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_123
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e02f55d35c122342adac31c71e1e3ac
+      internalID: -8664968742607942722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_124
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4197341754043464c807b3a0ec29cfeb
+      internalID: 6307250089539695383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_125
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78083cae0154e4e429594cf73884a111
+      internalID: 3590136357885580490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_126
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af903b0d06bceae46baa31a16abac05b
+      internalID: 6414275750067993188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_127
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae650205706a1f946b1e8c7268630709
+      internalID: -6088411709723214977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_128
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20a07b2042395ae48bfaeaaf2bb480c1
+      internalID: 2976000385037791807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_129
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaf09ef8bbe0e3044848906d0dab0205
+      internalID: -1871965575687551397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_130
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d02fe1ccd8b570d4593d4632027778f4
+      internalID: -9184993930594168927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_131
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: febecaec7882695449c368186f17b37a
+      internalID: 8231681137912154147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_132
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f55b37259407a1c42b9ac104c8b9b701
+      internalID: -6404492096003860959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_133
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f59076f6bdf19c4db1ff2c82e7ec327
+      internalID: -9056493288972329506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_134
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3706030503648464cb5edf942106f430
+      internalID: -6357560350102700938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_135
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a82ba2507251dd94c85e095028477765
+      internalID: -6552169385653703030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_136
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec89ba24f6c663e44a7ddf23092dc104
+      internalID: 4417291209031884735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_137
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c40a2215c2aa2de4c9f7448bddd7abc4
+      internalID: -5484031225749845898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_138
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 544d81b9fb06151438c1f3a11780c983
+      internalID: 4155733306208184956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_139
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a46ab81a6538baa4fa6bfd884462003a
+      internalID: 475957582264430941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_140
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e4241b78957c2a499f9cac56b29a4f4
+      internalID: -60634684929915514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_141
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca27b647cc3d06447ad1ad8f1c77d84e
+      internalID: -4831585000076695088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_142
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7235ce3c3b225634698b9e0bfe18643d
+      internalID: -1823170221810457856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_143
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffadbe24b88383449b49aa10aa597aef
+      internalID: -8814546031346838326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_144
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbd76658c3f9e744697963ad510cda66
+      internalID: -3574414235575043760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_145
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37962d79ca7c27c48b4ed29979a9fb45
+      internalID: -3373662830835219695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_146
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ac7a8c5936ab9f4c8a381d9ae158a1a
+      internalID: 6827796491556573572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_147
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 650259685e0e9f0429de01aeb87cfd75
+      internalID: -7393020478484083574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_148
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b6bb68814f383840b2d7f5e2769ab2f
+      internalID: 5854733265459860584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_149
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b36b7161cd902034bab88fc9ff6b455a
+      internalID: 3001627581867427047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_150
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62526fd2d37f7cd4d82fbfe525dcddfc
+      internalID: 2323437408882974082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_151
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e8eafc3534c65c4b96b5b3075fedfe9
+      internalID: -8828663632458440096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_152
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cc722f3dc2dcbf42b509d50a636e950
+      internalID: 3448219132369143336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_153
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 930a7c74b567b18439a81598c9f6c485
+      internalID: 7013416858268094858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_154
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aba76be318810d846a112c93a11c37c8
+      internalID: 7866832714047422105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_155
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90666514e32725c479af7ce77dbcf765
+      internalID: 4287402966538026277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_156
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6420baa32032e6d46b8b93315a922737
+      internalID: -431234786223819674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_157
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 496b1b6b98ac06741b58d9c5d53079b3
+      internalID: -2690705133812925524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_158
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c440c3f909dafd7478e40a362d45238f
+      internalID: 1363784830403330201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_159
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a14248b96e958b847a4a8bea339aba97
+      internalID: -8775715520212056452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_160
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d72ea4d1f2d729f478a41767d5402f82
+      internalID: 7233440792180624713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_161
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e49292856f095ee4f950b8e7200d4b4f
+      internalID: 2705401928924489919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_162
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b2e629469df3674faa8354a6b7f2603
+      internalID: -9008335943469721176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_163
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 674b916973e908d478b751fba816d86e
+      internalID: 3438622034116051587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_164
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d29d76e13f7eaa40856ca150d64f3ba
+      internalID: -443028763979338039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_165
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e0ac09efb19a3c4a9e773d7b5ed28c4
+      internalID: 6670613686937170914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_TechFortress2_166
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 651c4e10e0084c54d8d8d3aba675d0c8
+      internalID: -2493671540747850991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Set_A_TechFortress2_100: -4759634733278441304
+      Set_A_TechFortress2_122: -209656340534475906
+      Set_A_TechFortress2_96: 6998981909235372006
+      Set_A_TechFortress2_22: -7208304533177590635
+      Set_A_TechFortress2_4: 6785617269840948920
+      Set_A_TechFortress2_146: 6827796491556573572
+      Set_A_TechFortress2_14: -7544775743436163272
+      Set_A_TechFortress2_55: -4783161351318065960
+      Set_A_TechFortress2_49: -1925937093822286759
+      Set_A_TechFortress2_105: 4437264845838885994
+      Set_A_TechFortress2_1: -6456195444352991601
+      Set_A_TechFortress2_116: 2072140974968591293
+      Set_A_TechFortress2_54: -818208126616672684
+      Set_A_TechFortress2_3: -7840571333973184967
+      Set_A_TechFortress2_16: 4249692606178599167
+      Set_A_TechFortress2_7: -8850425446738186364
+      Set_A_TechFortress2_52: 3852930054321807307
+      Set_A_TechFortress2_152: 3448219132369143336
+      Set_A_TechFortress2_26: -2481893480706086832
+      Set_A_TechFortress2_76: 2184656136950036372
+      Set_A_TechFortress2_67: 8260510798916670679
+      Set_A_TechFortress2_125: 3590136357885580490
+      Set_A_TechFortress2_103: 7807805037041549208
+      Set_A_TechFortress2_81: -764019942565022543
+      Set_A_TechFortress2_18: -7667573239010841871
+      Set_A_TechFortress2_144: -3574414235575043760
+      Set_A_TechFortress2_160: 7233440792180624713
+      Set_A_TechFortress2_70: -6405687916236692603
+      Set_A_TechFortress2_149: 3001627581867427047
+      Set_A_TechFortress2_72: 7422922818981889900
+      Set_A_TechFortress2_162: -9008335943469721176
+      Set_A_TechFortress2_57: -604405230761156128
+      Set_A_TechFortress2_134: -6357560350102700938
+      Set_A_TechFortress2_28: 5883848689759076513
+      Set_A_TechFortress2_78: 5457543302540523651
+      Set_A_TechFortress2_42: -1930735039428257190
+      Set_A_TechFortress2_109: -6741578932657958531
+      Set_A_TechFortress2_30: 6103469701029641062
+      Set_A_TechFortress2_58: -3985163462368600443
+      Set_A_TechFortress2_27: 1823411337992721281
+      Set_A_TechFortress2_117: 774068678230662183
+      Set_A_TechFortress2_137: -5484031225749845898
+      Set_A_TechFortress2_39: -4756544484933389243
+      Set_A_TechFortress2_15: -3997605478631718847
+      Set_A_TechFortress2_25: 6474188917186123222
+      Set_A_TechFortress2_114: -6973695336298908725
+      Set_A_TechFortress2_135: -6552169385653703030
+      Set_A_TechFortress2_153: 7013416858268094858
+      Set_A_TechFortress2_139: 475957582264430941
+      Set_A_TechFortress2_99: -2084800171441417929
+      Set_A_TechFortress2_32: -7510230873009896560
+      Set_A_TechFortress2_12: 2209536433436612735
+      Set_A_TechFortress2_104: 2979781397349404509
+      Set_A_TechFortress2_112: 2216748303764478126
+      Set_A_TechFortress2_124: 6307250089539695383
+      Set_A_TechFortress2_56: -772126931397470842
+      Set_A_TechFortress2_161: 2705401928924489919
+      Set_A_TechFortress2_138: 4155733306208184956
+      Set_A_TechFortress2_33: 1986375742214392994
+      Set_A_TechFortress2_48: -4819873825874993756
+      Set_A_TechFortress2_121: -6709686082547825958
+      Set_A_TechFortress2_6: 55042042507888484
+      Set_A_TechFortress2_13: -9098238489201964209
+      Set_A_TechFortress2_71: 5119409071755837635
+      Set_A_TechFortress2_73: 1361900577966821859
+      Set_A_TechFortress2_92: 3263027156354178892
+      Set_A_TechFortress2_83: -7371017981210217869
+      Set_A_TechFortress2_63: 7770185877352223606
+      Set_A_TechFortress2_40: 6763053144749420429
+      Set_A_TechFortress2_97: -6662354978922963749
+      Set_A_TechFortress2_147: -7393020478484083574
+      Set_A_TechFortress2_93: 6191505495767970751
+      Set_A_TechFortress2_53: -3512663153469301749
+      Set_A_TechFortress2_65: 2273397107196795041
+      Set_A_TechFortress2_131: 8231681137912154147
+      Set_A_TechFortress2_108: 5167171350231415110
+      Set_A_TechFortress2_119: -8176442289571424797
+      Set_A_TechFortress2_35: -7586821516854988086
+      Set_A_TechFortress2_5: 8904152780182536292
+      Set_A_TechFortress2_91: 2746085698967955511
+      Set_A_TechFortress2_43: -933550336942982296
+      Set_A_TechFortress2_142: -1823170221810457856
+      Set_A_TechFortress2_159: -8775715520212056452
+      Set_A_TechFortress2_47: 4944936457955812335
+      Set_A_TechFortress2_17: 2472167682312769140
+      Set_A_TechFortress2_118: -3825580062181358075
+      Set_A_TechFortress2_110: 7606028524546756826
+      Set_A_TechFortress2_148: 5854733265459860584
+      Set_A_TechFortress2_31: 7879394793311239276
+      Set_A_TechFortress2_75: 655388392860934904
+      Set_A_TechFortress2_127: -6088411709723214977
+      Set_A_TechFortress2_64: -9084855238582433418
+      Set_A_TechFortress2_130: -9184993930594168927
+      Set_A_TechFortress2_66: 2703699263647541807
+      Set_A_TechFortress2_85: -5807679701142257734
+      Set_A_TechFortress2_154: 7866832714047422105
+      Set_A_TechFortress2_113: -6251259856407274522
+      Set_A_TechFortress2_120: -8783143635806771753
+      Set_A_TechFortress2_128: 2976000385037791807
+      Set_A_TechFortress2_80: -5805859083337765340
+      Set_A_TechFortress2_158: 1363784830403330201
+      Set_A_TechFortress2_156: -431234786223819674
+      Set_A_TechFortress2_107: -2459265029011190002
+      Set_A_TechFortress2_115: 7602317977835505499
+      Set_A_TechFortress2_51: 5348955177048404752
+      Set_A_TechFortress2_145: -3373662830835219695
+      Set_A_TechFortress2_136: 4417291209031884735
+      Set_A_TechFortress2_59: 2031314003419914337
+      Set_A_TechFortress2_157: -2690705133812925524
+      Set_A_TechFortress2_44: 2581563687930855764
+      Set_A_TechFortress2_21: 5081810757848671648
+      Set_A_TechFortress2_9: -3670388966726383096
+      Set_A_TechFortress2_29: 5373994434307144282
+      Set_A_TechFortress2_10: 8869125397183879775
+      Set_A_TechFortress2_60: 2055136700477210807
+      Set_A_TechFortress2_19: 7746354390781574339
+      Set_A_TechFortress2_23: -5795746433644388634
+      Set_A_TechFortress2_77: -1868434415776831084
+      Set_A_TechFortress2_2: -2607045029615535322
+      Set_A_TechFortress2_11: -1501334268080573073
+      Set_A_TechFortress2_84: 481132979877640980
+      Set_A_TechFortress2_20: 1301244988804110722
+      Set_A_TechFortress2_164: -443028763979338039
+      Set_A_TechFortress2_24: -2554492324113222210
+      Set_A_TechFortress2_61: 3580088001430151712
+      Set_A_TechFortress2_90: 4461665479158087259
+      Set_A_TechFortress2_123: -8664968742607942722
+      Set_A_TechFortress2_102: 3694645504472902889
+      Set_A_TechFortress2_163: 3438622034116051587
+      Set_A_TechFortress2_68: 8105660292332946959
+      Set_A_TechFortress2_94: -2428199131061678874
+      Set_A_TechFortress2_132: -6404492096003860959
+      Set_A_TechFortress2_41: -7416894854987128585
+      Set_A_TechFortress2_45: 5115396514104233222
+      Set_A_TechFortress2_69: -26750784238497757
+      Set_A_TechFortress2_0: -7888388945864446369
+      Set_A_TechFortress2_106: -1587910712625620230
+      Set_A_TechFortress2_143: -8814546031346838326
+      Set_A_TechFortress2_89: -5161072247042066472
+      Set_A_TechFortress2_74: 6180715770603747597
+      Set_A_TechFortress2_111: -8324116415852567799
+      Set_A_TechFortress2_141: -4831585000076695088
+      Set_A_TechFortress2_133: -9056493288972329506
+      Set_A_TechFortress2_155: 4287402966538026277
+      Set_A_TechFortress2_126: 6414275750067993188
+      Set_A_TechFortress2_101: 3986464706788114104
+      Set_A_TechFortress2_95: 6150250376637689171
+      Set_A_TechFortress2_88: -6280815164156253829
+      Set_A_TechFortress2_82: 2708860727620954960
+      Set_A_TechFortress2_150: 2323437408882974082
+      Set_A_TechFortress2_34: 2876687756882705549
+      Set_A_TechFortress2_86: 2306674286491885808
+      Set_A_TechFortress2_140: -60634684929915514
+      Set_A_TechFortress2_79: -4016640530928236487
+      Set_A_TechFortress2_46: 921334631658476569
+      Set_A_TechFortress2_36: 3382431665947896903
+      Set_A_TechFortress2_151: -8828663632458440096
+      Set_A_TechFortress2_129: -1871965575687551397
+      Set_A_TechFortress2_165: 6670613686937170914
+      Set_A_TechFortress2_87: -6212311424954207476
+      Set_A_TechFortress2_166: -2493671540747850991
+      Set_A_TechFortress2_62: 280301115269882742
+      Set_A_TechFortress2_38: -7872394357426064927
+      Set_A_TechFortress2_8: 1308955428730152552
+      Set_A_TechFortress2_98: -2230004329212875930
+      Set_A_TechFortress2_50: -3796912238457467792
+      Set_A_TechFortress2_37: 6484426900663271938
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

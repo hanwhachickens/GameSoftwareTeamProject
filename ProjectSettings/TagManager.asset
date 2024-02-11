@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Monster
+  - NPC
+  - Potion
+  - dialog
+  - Canvas
+  - Save
+  - Text
+  - Ending
+  - Joystick
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - structure
+  - enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: line
+    uniqueID: 1911692981
+    locked: 0
+  - name: structure
+    uniqueID: 3520622263
+    locked: 0
+  - name: gate
+    uniqueID: 1530372849
+    locked: 0
+  - name: character
+    uniqueID: 3310697065
+    locked: 0
+  - name: transparency
+    uniqueID: 717503829
+    locked: 0

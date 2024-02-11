@@ -1,0 +1,6033 @@
+fileFormatVersion: 2
+guid: 49725ce1be465404a95192d46525d818
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6910237671190538627
+    second: Set_A_Fortress3_0
+  - first:
+      213: 7926741239547260338
+    second: Set_A_Fortress3_1
+  - first:
+      213: -8238000021264958187
+    second: Set_A_Fortress3_2
+  - first:
+      213: 722482283397367810
+    second: Set_A_Fortress3_3
+  - first:
+      213: 5788634165987214657
+    second: Set_A_Fortress3_4
+  - first:
+      213: 8552707825494398121
+    second: Set_A_Fortress3_5
+  - first:
+      213: 2215802859546720566
+    second: Set_A_Fortress3_6
+  - first:
+      213: 6788375385821409707
+    second: Set_A_Fortress3_7
+  - first:
+      213: 4273631906566659232
+    second: Set_A_Fortress3_8
+  - first:
+      213: -8424644282363456599
+    second: Set_A_Fortress3_9
+  - first:
+      213: 2162837588093330383
+    second: Set_A_Fortress3_10
+  - first:
+      213: -8510976523132840077
+    second: Set_A_Fortress3_11
+  - first:
+      213: -3835621982795133590
+    second: Set_A_Fortress3_12
+  - first:
+      213: 5079233807666620458
+    second: Set_A_Fortress3_13
+  - first:
+      213: -545005397467862427
+    second: Set_A_Fortress3_14
+  - first:
+      213: 2425316772394520323
+    second: Set_A_Fortress3_15
+  - first:
+      213: -6739413636075964180
+    second: Set_A_Fortress3_16
+  - first:
+      213: -8419633424107314717
+    second: Set_A_Fortress3_17
+  - first:
+      213: 7503718233647949101
+    second: Set_A_Fortress3_18
+  - first:
+      213: 8602356347601292810
+    second: Set_A_Fortress3_19
+  - first:
+      213: 3507799157449335228
+    second: Set_A_Fortress3_20
+  - first:
+      213: 985533624858720197
+    second: Set_A_Fortress3_21
+  - first:
+      213: 8547786180000201433
+    second: Set_A_Fortress3_22
+  - first:
+      213: 849963746446599831
+    second: Set_A_Fortress3_23
+  - first:
+      213: 7489129854203941485
+    second: Set_A_Fortress3_24
+  - first:
+      213: 47292918021821071
+    second: Set_A_Fortress3_25
+  - first:
+      213: -3561121750205458448
+    second: Set_A_Fortress3_26
+  - first:
+      213: -438099325986985866
+    second: Set_A_Fortress3_27
+  - first:
+      213: 951038392484202085
+    second: Set_A_Fortress3_28
+  - first:
+      213: 3377204151797093405
+    second: Set_A_Fortress3_29
+  - first:
+      213: 6155870813485577145
+    second: Set_A_Fortress3_30
+  - first:
+      213: -9194066361331756878
+    second: Set_A_Fortress3_31
+  - first:
+      213: -1553109777817535193
+    second: Set_A_Fortress3_32
+  - first:
+      213: 1995672876764333260
+    second: Set_A_Fortress3_33
+  - first:
+      213: -1781051267607795209
+    second: Set_A_Fortress3_34
+  - first:
+      213: 7173437577987527971
+    second: Set_A_Fortress3_35
+  - first:
+      213: -7935690103745499881
+    second: Set_A_Fortress3_36
+  - first:
+      213: 4994927085407719639
+    second: Set_A_Fortress3_37
+  - first:
+      213: 4140495418838169430
+    second: Set_A_Fortress3_38
+  - first:
+      213: -2741545248132281693
+    second: Set_A_Fortress3_39
+  - first:
+      213: -50690270611306550
+    second: Set_A_Fortress3_40
+  - first:
+      213: -2486141608503088392
+    second: Set_A_Fortress3_41
+  - first:
+      213: -8388170557514370790
+    second: Set_A_Fortress3_42
+  - first:
+      213: 361154068564825778
+    second: Set_A_Fortress3_43
+  - first:
+      213: 2574366982398458699
+    second: Set_A_Fortress3_44
+  - first:
+      213: 4585887619884907483
+    second: Set_A_Fortress3_45
+  - first:
+      213: 3331979765738509841
+    second: Set_A_Fortress3_46
+  - first:
+      213: -3249497641170841110
+    second: Set_A_Fortress3_47
+  - first:
+      213: 1046546027527560524
+    second: Set_A_Fortress3_48
+  - first:
+      213: 6537518820795641007
+    second: Set_A_Fortress3_49
+  - first:
+      213: 5207628821606478279
+    second: Set_A_Fortress3_50
+  - first:
+      213: -2221671947093731893
+    second: Set_A_Fortress3_51
+  - first:
+      213: 4017114930594205871
+    second: Set_A_Fortress3_52
+  - first:
+      213: -5044172235932096637
+    second: Set_A_Fortress3_53
+  - first:
+      213: -5711226931295905064
+    second: Set_A_Fortress3_54
+  - first:
+      213: 3078254837248220684
+    second: Set_A_Fortress3_55
+  - first:
+      213: 2510024760235823338
+    second: Set_A_Fortress3_56
+  - first:
+      213: -8700378576353824592
+    second: Set_A_Fortress3_57
+  - first:
+      213: -5029720607294051255
+    second: Set_A_Fortress3_58
+  - first:
+      213: 5440765763568551930
+    second: Set_A_Fortress3_59
+  - first:
+      213: -5412680397547063340
+    second: Set_A_Fortress3_60
+  - first:
+      213: 5191837228273471408
+    second: Set_A_Fortress3_61
+  - first:
+      213: -1053925553409624297
+    second: Set_A_Fortress3_62
+  - first:
+      213: -4538393897731625633
+    second: Set_A_Fortress3_63
+  - first:
+      213: 2324212006637915009
+    second: Set_A_Fortress3_64
+  - first:
+      213: -1438228695400132271
+    second: Set_A_Fortress3_65
+  - first:
+      213: 8288599162790507934
+    second: Set_A_Fortress3_66
+  - first:
+      213: 2338845649314358357
+    second: Set_A_Fortress3_67
+  - first:
+      213: -6449072522977311432
+    second: Set_A_Fortress3_68
+  - first:
+      213: 1136958089217921885
+    second: Set_A_Fortress3_69
+  - first:
+      213: 8277502701305406026
+    second: Set_A_Fortress3_70
+  - first:
+      213: -1394998258018630719
+    second: Set_A_Fortress3_71
+  - first:
+      213: 4567535759043142935
+    second: Set_A_Fortress3_72
+  - first:
+      213: -4384953127231697305
+    second: Set_A_Fortress3_73
+  - first:
+      213: 1242884834023737449
+    second: Set_A_Fortress3_74
+  - first:
+      213: -132192730190092351
+    second: Set_A_Fortress3_75
+  - first:
+      213: -5054451452864466341
+    second: Set_A_Fortress3_76
+  - first:
+      213: 8702886012683590299
+    second: Set_A_Fortress3_77
+  - first:
+      213: 3424710729054658954
+    second: Set_A_Fortress3_78
+  - first:
+      213: -8790414271893423516
+    second: Set_A_Fortress3_79
+  - first:
+      213: -7432208773340291083
+    second: Set_A_Fortress3_80
+  - first:
+      213: 2668174393462294522
+    second: Set_A_Fortress3_81
+  - first:
+      213: -3286777349312865949
+    second: Set_A_Fortress3_82
+  - first:
+      213: 5094395925932625211
+    second: Set_A_Fortress3_83
+  - first:
+      213: 6737324704501134563
+    second: Set_A_Fortress3_84
+  - first:
+      213: -8378504049270497388
+    second: Set_A_Fortress3_85
+  - first:
+      213: -3690945831527178301
+    second: Set_A_Fortress3_86
+  - first:
+      213: 6973783330459135763
+    second: Set_A_Fortress3_87
+  - first:
+      213: 4478290037083209345
+    second: Set_A_Fortress3_88
+  - first:
+      213: 1139183855023577634
+    second: Set_A_Fortress3_89
+  - first:
+      213: 3003886385038503638
+    second: Set_A_Fortress3_90
+  - first:
+      213: 646910087258704577
+    second: Set_A_Fortress3_91
+  - first:
+      213: 1004547554716985177
+    second: Set_A_Fortress3_92
+  - first:
+      213: -8324429274039605175
+    second: Set_A_Fortress3_93
+  - first:
+      213: -1756324201364729976
+    second: Set_A_Fortress3_94
+  - first:
+      213: 3134031300297485539
+    second: Set_A_Fortress3_95
+  - first:
+      213: 2648687201952715190
+    second: Set_A_Fortress3_96
+  - first:
+      213: -3588729922826486717
+    second: Set_A_Fortress3_97
+  - first:
+      213: -4896929980995335159
+    second: Set_A_Fortress3_98
+  - first:
+      213: -8518752415115356704
+    second: Set_A_Fortress3_99
+  - first:
+      213: -4001592818757022029
+    second: Set_A_Fortress3_100
+  - first:
+      213: -4666150273107426051
+    second: Set_A_Fortress3_101
+  - first:
+      213: -2038507264799680855
+    second: Set_A_Fortress3_102
+  - first:
+      213: -1262443622460477771
+    second: Set_A_Fortress3_103
+  - first:
+      213: 2660377228174452954
+    second: Set_A_Fortress3_104
+  - first:
+      213: -8518575859267921536
+    second: Set_A_Fortress3_105
+  - first:
+      213: -3363358525065785295
+    second: Set_A_Fortress3_106
+  - first:
+      213: -764544789892274030
+    second: Set_A_Fortress3_107
+  - first:
+      213: 8172830158854905720
+    second: Set_A_Fortress3_108
+  - first:
+      213: 8942608561079688605
+    second: Set_A_Fortress3_109
+  - first:
+      213: 8190159395573655475
+    second: Set_A_Fortress3_110
+  - first:
+      213: -2764156813275298156
+    second: Set_A_Fortress3_111
+  - first:
+      213: -5526192771075076678
+    second: Set_A_Fortress3_112
+  - first:
+      213: -3167088412432768357
+    second: Set_A_Fortress3_113
+  - first:
+      213: -5872416190787082346
+    second: Set_A_Fortress3_114
+  - first:
+      213: 3357635094886558408
+    second: Set_A_Fortress3_115
+  - first:
+      213: 1656689108744969229
+    second: Set_A_Fortress3_116
+  - first:
+      213: -8207433890641537031
+    second: Set_A_Fortress3_117
+  - first:
+      213: -6886251516289692892
+    second: Set_A_Fortress3_118
+  - first:
+      213: 1290794925422556023
+    second: Set_A_Fortress3_119
+  - first:
+      213: -3262265559824988032
+    second: Set_A_Fortress3_120
+  - first:
+      213: 5392867857153386379
+    second: Set_A_Fortress3_121
+  - first:
+      213: -6348332549048355898
+    second: Set_A_Fortress3_122
+  - first:
+      213: 1846220822106361718
+    second: Set_A_Fortress3_123
+  - first:
+      213: -4792611623576632973
+    second: Set_A_Fortress3_124
+  - first:
+      213: -1800911647171487677
+    second: Set_A_Fortress3_125
+  - first:
+      213: 7848533492981888053
+    second: Set_A_Fortress3_126
+  - first:
+      213: -91258051534087970
+    second: Set_A_Fortress3_127
+  - first:
+      213: -405631825391461130
+    second: Set_A_Fortress3_128
+  - first:
+      213: 7928131788939681320
+    second: Set_A_Fortress3_129
+  - first:
+      213: 6946809683355167293
+    second: Set_A_Fortress3_130
+  - first:
+      213: 4119969856101524442
+    second: Set_A_Fortress3_131
+  - first:
+      213: -4405842493336025026
+    second: Set_A_Fortress3_132
+  - first:
+      213: -7644089904587991118
+    second: Set_A_Fortress3_133
+  - first:
+      213: 9181400440197447136
+    second: Set_A_Fortress3_134
+  - first:
+      213: -2713416656278297240
+    second: Set_A_Fortress3_135
+  - first:
+      213: 8045017605179093273
+    second: Set_A_Fortress3_136
+  - first:
+      213: -8358030866977520602
+    second: Set_A_Fortress3_137
+  - first:
+      213: 3601835131366368322
+    second: Set_A_Fortress3_138
+  - first:
+      213: 3420627214727390649
+    second: Set_A_Fortress3_139
+  - first:
+      213: 6336491396577295044
+    second: Set_A_Fortress3_140
+  - first:
+      213: 188506177999541390
+    second: Set_A_Fortress3_141
+  - first:
+      213: -4902613610776686295
+    second: Set_A_Fortress3_142
+  - first:
+      213: -112819219949059270
+    second: Set_A_Fortress3_143
+  - first:
+      213: -3464545610066779256
+    second: Set_A_Fortress3_144
+  - first:
+      213: -5434430475318055306
+    second: Set_A_Fortress3_145
+  - first:
+      213: -4682097793677625096
+    second: Set_A_Fortress3_146
+  - first:
+      213: -7575687228091050411
+    second: Set_A_Fortress3_147
+  - first:
+      213: -8579085780941755637
+    second: Set_A_Fortress3_148
+  - first:
+      213: 3409560641656667396
+    second: Set_A_Fortress3_149
+  - first:
+      213: 5760244625718417783
+    second: Set_A_Fortress3_150
+  - first:
+      213: -8359194485173790607
+    second: Set_A_Fortress3_151
+  - first:
+      213: 6403649188656612061
+    second: Set_A_Fortress3_152
+  - first:
+      213: 6563567110687847489
+    second: Set_A_Fortress3_153
+  - first:
+      213: 4910981978174500761
+    second: Set_A_Fortress3_154
+  - first:
+      213: 5228558898996932800
+    second: Set_A_Fortress3_155
+  - first:
+      213: -6829854067909079075
+    second: Set_A_Fortress3_156
+  - first:
+      213: -4542387097216128770
+    second: Set_A_Fortress3_157
+  - first:
+      213: -1624874046955168524
+    second: Set_A_Fortress3_158
+  - first:
+      213: -5731751452023285416
+    second: Set_A_Fortress3_159
+  - first:
+      213: 8917214178696262673
+    second: Set_A_Fortress3_160
+  - first:
+      213: -5422710547085231555
+    second: Set_A_Fortress3_161
+  - first:
+      213: -3826918846199098554
+    second: Set_A_Fortress3_162
+  - first:
+      213: 2235608991027068911
+    second: Set_A_Fortress3_163
+  - first:
+      213: -2204316151977200195
+    second: Set_A_Fortress3_164
+  - first:
+      213: 4720398023699023724
+    second: Set_A_Fortress3_165
+  - first:
+      213: -6099636001319387912
+    second: Set_A_Fortress3_166
+  - first:
+      213: 5937769457833681847
+    second: Set_A_Fortress3_167
+  - first:
+      213: -1633762120896279112
+    second: Set_A_Fortress3_168
+  - first:
+      213: -3558954331177032879
+    second: Set_A_Fortress3_169
+  - first:
+      213: 5141658316722603174
+    second: Set_A_Fortress3_170
+  - first:
+      213: -4602116191563846750
+    second: Set_A_Fortress3_171
+  - first:
+      213: 7933869341299174980
+    second: Set_A_Fortress3_172
+  - first:
+      213: 5245763339485614072
+    second: Set_A_Fortress3_173
+  - first:
+      213: 3970971979082744992
+    second: Set_A_Fortress3_174
+  - first:
+      213: -3831687626864880865
+    second: Set_A_Fortress3_175
+  - first:
+      213: -3511792255242150583
+    second: Set_A_Fortress3_176
+  - first:
+      213: 1010345400519736902
+    second: Set_A_Fortress3_177
+  - first:
+      213: -6085223289656565659
+    second: Set_A_Fortress3_178
+  - first:
+      213: 3518886433297066847
+    second: Set_A_Fortress3_179
+  - first:
+      213: -493408138871707459
+    second: Set_A_Fortress3_180
+  - first:
+      213: 3414630661784565065
+    second: Set_A_Fortress3_181
+  - first:
+      213: 807925362167545364
+    second: Set_A_Fortress3_182
+  - first:
+      213: -1726786796390378704
+    second: Set_A_Fortress3_183
+  - first:
+      213: 7293128808209775709
+    second: Set_A_Fortress3_184
+  - first:
+      213: -3159943765407563887
+    second: Set_A_Fortress3_185
+  - first:
+      213: 5853579282687808326
+    second: Set_A_Fortress3_186
+  - first:
+      213: -7885027441640375810
+    second: Set_A_Fortress3_187
+  - first:
+      213: 3370130651912786624
+    second: Set_A_Fortress3_188
+  - first:
+      213: 4023125916874591924
+    second: Set_A_Fortress3_189
+  - first:
+      213: -4911998538439053132
+    second: Set_A_Fortress3_190
+  - first:
+      213: 408400044654486276
+    second: Set_A_Fortress3_191
+  - first:
+      213: -4098893229526751897
+    second: Set_A_Fortress3_192
+  - first:
+      213: 8281524938676493556
+    second: Set_A_Fortress3_193
+  - first:
+      213: -8376114436537385686
+    second: Set_A_Fortress3_194
+  - first:
+      213: -3879445407468116505
+    second: Set_A_Fortress3_195
+  - first:
+      213: -2452958866951094391
+    second: Set_A_Fortress3_196
+  - first:
+      213: -8597039021819546602
+    second: Set_A_Fortress3_197
+  - first:
+      213: 6137050054881603829
+    second: Set_A_Fortress3_198
+  - first:
+      213: 1951244174005354990
+    second: Set_A_Fortress3_199
+  - first:
+      213: 8788310428298916423
+    second: Set_A_Fortress3_200
+  - first:
+      213: 7987250890417649119
+    second: Set_A_Fortress3_201
+  - first:
+      213: -1635974775924285184
+    second: Set_A_Fortress3_202
+  - first:
+      213: -5815430885592764432
+    second: Set_A_Fortress3_203
+  - first:
+      213: 119722942156270709
+    second: Set_A_Fortress3_204
+  - first:
+      213: 2263882561275144469
+    second: Set_A_Fortress3_205
+  - first:
+      213: -152163969016558440
+    second: Set_A_Fortress3_206
+  - first:
+      213: -8944674456039397423
+    second: Set_A_Fortress3_207
+  - first:
+      213: 1851226167361009095
+    second: Set_A_Fortress3_208
+  - first:
+      213: -2403165208026096731
+    second: Set_A_Fortress3_209
+  - first:
+      213: -6848608121363514184
+    second: Set_A_Fortress3_210
+  - first:
+      213: 8949515276808224532
+    second: Set_A_Fortress3_211
+  - first:
+      213: 3281386923396279998
+    second: Set_A_Fortress3_212
+  - first:
+      213: -1653474320865094749
+    second: Set_A_Fortress3_213
+  - first:
+      213: 7415330882839846427
+    second: Set_A_Fortress3_214
+  - first:
+      213: 6869031605393974842
+    second: Set_A_Fortress3_215
+  - first:
+      213: 3830598228156957025
+    second: Set_A_Fortress3_216
+  - first:
+      213: -2533787696455105282
+    second: Set_A_Fortress3_217
+  - first:
+      213: -3072600835881905212
+    second: Set_A_Fortress3_218
+  - first:
+      213: -2639188688293083322
+    second: Set_A_Fortress3_219
+  - first:
+      213: -6808618157730908631
+    second: Set_A_Fortress3_220
+  - first:
+      213: -1350942195498528107
+    second: Set_A_Fortress3_221
+  - first:
+      213: 8758905200130452180
+    second: Set_A_Fortress3_222
+  - first:
+      213: 5164615597409448156
+    second: Set_A_Fortress3_223
+  - first:
+      213: -8128425937606529620
+    second: Set_A_Fortress3_224
+  - first:
+      213: 7234107063311745434
+    second: Set_A_Fortress3_225
+  - first:
+      213: 3960806336188465312
+    second: Set_A_Fortress3_226
+  - first:
+      213: 4650770104493230798
+    second: Set_A_Fortress3_227
+  - first:
+      213: 7845664403366959644
+    second: Set_A_Fortress3_228
+  - first:
+      213: -2006175946185726095
+    second: Set_A_Fortress3_229
+  - first:
+      213: 4066808354157662565
+    second: Set_A_Fortress3_230
+  - first:
+      213: 2764900436558832052
+    second: Set_A_Fortress3_231
+  - first:
+      213: -2693486728858860349
+    second: Set_A_Fortress3_232
+  - first:
+      213: -8108028012386541618
+    second: Set_A_Fortress3_233
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Set_A_Fortress3_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee4c5da0639d53641bb1fb10ded1b1fb
+      internalID: 6910237671190538627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1378f1a0ec2bee47ab36ec8894a0893
+      internalID: 7926741239547260338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a93342accac31394cbea370514daeae7
+      internalID: -8238000021264958187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf9bad37e21d934db8437a89ff612c7
+      internalID: 722482283397367810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cdd93208afd22a41bdca677b615a387
+      internalID: 5788634165987214657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 233a1dd851f87df4c81ecc2c086f84fe
+      internalID: 8552707825494398121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47b3808f922cc654b8748ffb953c5c5f
+      internalID: 2215802859546720566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 431340eee6f80364fb3635f564f66097
+      internalID: 6788375385821409707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ef66e0a74604074da4794e4d8bac084
+      internalID: 4273631906566659232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_9
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6910524986caa5a4eb0eae38a0c279a8
+      internalID: -8424644282363456599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_10
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5dcd7f70a355cc42a08b99dbdf19488
+      internalID: 2162837588093330383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_11
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 233afc9760439bc48a91da13462e9555
+      internalID: -8510976523132840077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_12
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2cbdffc3c3fe634c832f5d5d518cfcc
+      internalID: -3835621982795133590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_13
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ba2172f94d9cdf4ebb7ea26e77f7755
+      internalID: 5079233807666620458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_14
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb92370f3f1ac7443a431e9e8518f964
+      internalID: -545005397467862427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_15
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d52aa10b0b018d40ac8b85bdd59158e
+      internalID: 2425316772394520323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1eff13f0d576834db857b7123522455
+      internalID: -6739413636075964180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_17
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 685e55dce6a99c84899d4f7648ca494d
+      internalID: -8419633424107314717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_18
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6822d932aad104e41b5b83fd144684c3
+      internalID: 7503718233647949101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_19
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1260b6c70d93ed74ab9ecb27e1a88b8a
+      internalID: 8602356347601292810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_20
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38ce7124c163ca540a89b2482db701f9
+      internalID: 3507799157449335228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_21
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab8081a0c91f6a54fa1a30b84a01bfb5
+      internalID: 985533624858720197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_22
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c52ff1316b6d1b45a746fa94dece86f
+      internalID: 8547786180000201433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_23
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c74ff6540db3ba498a5e50a7c51e5cf
+      internalID: 849963746446599831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_24
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b499cbdb7445004ea0b4464f4c5c0b1
+      internalID: 7489129854203941485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_25
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7b70046329c3704da9047852071336f
+      internalID: 47292918021821071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_26
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72eac7b18e9fd6d4a9284b4a0cb954e1
+      internalID: -3561121750205458448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_27
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 323d547809f70724598c56bc4ae2b668
+      internalID: -438099325986985866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_28
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 032f86a1caab733428f478bff0fd545c
+      internalID: 951038392484202085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_29
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 750c39a36eafa7c43b655cc07465bfcc
+      internalID: 3377204151797093405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_30
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4312b45c7487ba94c8b8febbccfdd39b
+      internalID: 6155870813485577145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_31
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61270400622543e46b62780667bdf1ea
+      internalID: -9194066361331756878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11f374fe1bd47474781103c247384a1e
+      internalID: -1553109777817535193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_33
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bec18215f351344382d4f77d5f541a0
+      internalID: 1995672876764333260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_34
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1641c37bbc1c3e844b0d2790d842e851
+      internalID: -1781051267607795209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_35
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 432b9bd2da16a624db655768ff066cfe
+      internalID: 7173437577987527971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_36
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c40feacab11d7424a936323c42cc71f0
+      internalID: -7935690103745499881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_37
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12131cfda2e71a14884fc0a759a04c82
+      internalID: 4994927085407719639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_38
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 219f23088edcb1247811fe9c3b81584e
+      internalID: 4140495418838169430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_39
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b73f3126c56e0d54c83477feed93eb7b
+      internalID: -2741545248132281693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_40
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 711b01f8e9a52be4d8aaed683b4f1783
+      internalID: -50690270611306550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_41
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad4915554b9e7ba41810cf6c9e0ed648
+      internalID: -2486141608503088392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_42
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71f14d11cd998ac49bf1278a0369f601
+      internalID: -8388170557514370790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_43
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a674fbba8087764fa4999beb3ac0e12
+      internalID: 361154068564825778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_44
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ae2a94df0b26244c86d8a81f82fb922
+      internalID: 2574366982398458699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_45
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b6f0660b4e94aa439bb81db22284d57
+      internalID: 4585887619884907483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_46
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 643f9697384753e40b655413e37391ef
+      internalID: 3331979765738509841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_47
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20b7790aaa4022840a431ac7a1228a96
+      internalID: -3249497641170841110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b7c52728439e624d85e0f14e99257ea
+      internalID: 1046546027527560524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_49
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfeea4e421aec2741b8da6a60aa57e8f
+      internalID: 6537518820795641007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_50
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c2bb22c17b15d143b42fed9036c48bb
+      internalID: 5207628821606478279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_51
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aab81d7d5d25ce49b182bfb59cb0efd
+      internalID: -2221671947093731893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_52
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f93013a5fa3a85438c5ab41e0da9085
+      internalID: 4017114930594205871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_53
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87ac718289a6bde47b2c503d1f3b3fed
+      internalID: -5044172235932096637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_54
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b89e384228fc41c42bb6f02001bba09b
+      internalID: -5711226931295905064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_55
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d80cd49288c411419c49748dea1b627
+      internalID: 3078254837248220684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_56
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f7a531492a86c740b8738f477305e2a
+      internalID: 2510024760235823338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_57
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d26569a2ed1bf034d9c1407b65e1f49e
+      internalID: -8700378576353824592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_58
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d0831528869d3c45bfb48268c775aab
+      internalID: -5029720607294051255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_59
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec8bc7bc1eda5ed4eb345427e571efba
+      internalID: 5440765763568551930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_60
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fd43f15d39e0d1438e1489f0ed98d3d
+      internalID: -5412680397547063340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_61
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83f4391dc38f12d40854583a56f314f7
+      internalID: 5191837228273471408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_62
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1689bb676861324a9ae7f5b0e843833
+      internalID: -1053925553409624297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_63
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4172e3c82043074d9327b77c489186a
+      internalID: -4538393897731625633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 704286ef71220e540aaf6b484ea4a918
+      internalID: 2324212006637915009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_65
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29c7b9af1d0164844998b8412a5b9f80
+      internalID: -1438228695400132271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_66
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cd35e1b2fab8f2489cb9f34a14e08c1
+      internalID: 8288599162790507934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_67
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cda80d5ccc8d2e44aac8d6c4a08b7dd8
+      internalID: 2338845649314358357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_68
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8bf209ee4829f4498f11491da91516c
+      internalID: -6449072522977311432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_69
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff195d3c7624d2e449f5bfe32c28b715
+      internalID: 1136958089217921885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_70
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50e7792e85930e34cacdb0fc6bafef80
+      internalID: 8277502701305406026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_71
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ed7f5e735d87ee43bdea83566e11396
+      internalID: -1394998258018630719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_72
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e17b890c3570a3645a0b4e2f57d5839c
+      internalID: 4567535759043142935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_73
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 570b48bc90b1d6c4e846410d2226ae28
+      internalID: -4384953127231697305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_74
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecccea61073c1cc468736aaed222af58
+      internalID: 1242884834023737449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_75
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af3228aba1d6a0944aecca664d504ef0
+      internalID: -132192730190092351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_76
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1486a93e96332604fa6b449a843c40d9
+      internalID: -5054451452864466341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_77
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6c15f642c1d4d94e98dda8ce8034f5e
+      internalID: 8702886012683590299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_78
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f06d853d88dfbba4dadcabaa05ce1e7f
+      internalID: 3424710729054658954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_79
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 491c3a6ca3380774793d0a6fe0bfc17c
+      internalID: -8790414271893423516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 966f23fff2ba1ee4998973bad2f538fe
+      internalID: -7432208773340291083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_81
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ccdb7ca5328c2a4bb7bcd0669c0d0ee
+      internalID: 2668174393462294522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_82
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 189c3aa6be70e8945bea1517c49bf450
+      internalID: -3286777349312865949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_83
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a778cf96c0cb412488efd4e3012d07b2
+      internalID: 5094395925932625211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_84
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb25e756329bf904199db975c0a9ee81
+      internalID: 6737324704501134563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_85
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8934d89ffde2a344bfee2e684fcee2b
+      internalID: -8378504049270497388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_86
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a67791504ea6f488aa477981747735
+      internalID: -3690945831527178301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_87
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d561744000e92247ac75a9cffaf9606
+      internalID: 6973783330459135763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_88
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac8af81d307b42e449450d7b9632a049
+      internalID: 4478290037083209345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_89
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 517935fefd1f44448a6308dec6c61595
+      internalID: 1139183855023577634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_90
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6d6253f58532214ea7ad7212f835658
+      internalID: 3003886385038503638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_91
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 061bb81e0ae30864aa23ee838c5ede5d
+      internalID: 646910087258704577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_92
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83f3cf463066fe743a3569f36c1ae7f4
+      internalID: 1004547554716985177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_93
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf6b9171c9531164bb745ad39d0ca692
+      internalID: -8324429274039605175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_94
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b97fb45e32c1b94469f57b1b9854237c
+      internalID: -1756324201364729976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_95
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf5da194740e2ba46817e2a2ca20b1eb
+      internalID: 3134031300297485539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6223e0499a0962a4f8daaceb4bcecbcb
+      internalID: 2648687201952715190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_97
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffe9c4a8ee3c50a488d105462899b0e8
+      internalID: -3588729922826486717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_98
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd272e8325df6854cb3e3da5df34ce7b
+      internalID: -4896929980995335159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_99
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cdde7e2059c6794788741c3bd989ab7
+      internalID: -8518752415115356704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_100
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6f6425cf77744a46ad2814fd220f032
+      internalID: -4001592818757022029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_101
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da5642abbebc3c4a9590cfd03d5c883
+      internalID: -4666150273107426051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_102
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 201a0c0fe6700484892020bc1ee0cd3b
+      internalID: -2038507264799680855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_103
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5518ff3fef4ac2545b7413d4b8e066ed
+      internalID: -1262443622460477771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_104
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54e507520f30d9d48a4cbbb20566c7ba
+      internalID: 2660377228174452954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_105
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0cb21e8bdd10b7459681b09e6096dc1
+      internalID: -8518575859267921536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_106
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42d552e46912b1641a918fa3b3b99bdd
+      internalID: -3363358525065785295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_107
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35abd7767706a6d499ad82968ab08204
+      internalID: -764544789892274030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_108
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f2fd1338f1b7654fa1170c410b7ba7d
+      internalID: 8172830158854905720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_109
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 835d88ec3d9c67f479b8347eafa3d87d
+      internalID: 8942608561079688605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_110
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24aeb246edc86554a8fc06c81b983ff5
+      internalID: 8190159395573655475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_111
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e360be6fd66ac804d98610c3d805e2f1
+      internalID: -2764156813275298156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd54a76022b5bcb4bab345063cf555e5
+      internalID: -5526192771075076678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_113
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a52e55478772fd439654577379f9237
+      internalID: -3167088412432768357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_114
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af946ccf04a19f94a87a8f122038b46f
+      internalID: -5872416190787082346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_115
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ad124c7e97d6c94ba686927e2c3b4cf
+      internalID: 3357635094886558408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_116
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e2c544386bba704ebe1266c8c8495a3
+      internalID: 1656689108744969229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_117
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0c9d37e4b16e67439cc961f8db184f0
+      internalID: -8207433890641537031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_118
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43ce5457c58e3c644a055c96623613f7
+      internalID: -6886251516289692892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_119
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7a65c03a0376e042bcb934816cdd927
+      internalID: 1290794925422556023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_120
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a9fd62fdab22e74dbc51d59df24e164
+      internalID: -3262265559824988032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_121
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d406ae7905c9c2459331b0eac94e34b
+      internalID: 5392867857153386379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_122
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb121ff5bbb7ded478ed521e2eb041fe
+      internalID: -6348332549048355898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_123
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32988edbaf3c08a4aa9c18bc7c5af958
+      internalID: 1846220822106361718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_124
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d1f5c912432c74e8eb5703b5cb240b
+      internalID: -4792611623576632973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_125
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d7552b9a8bfdad4db9ddde563b05d4e
+      internalID: -1800911647171487677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_126
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42312dbc9719cfd43831539d56f5a0a0
+      internalID: 7848533492981888053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_127
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c646446d41582dd4bb5cb9f97863a0ed
+      internalID: -91258051534087970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_128
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d78af68de3bae64daf3ca3b5a5796b8
+      internalID: -405631825391461130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_129
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f1cd4e7244fa774e99c8d1f405a0107
+      internalID: 7928131788939681320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_130
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dac40c9c7d3d1348aae44755c5441ae
+      internalID: 6946809683355167293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_131
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86f931b5c97b5e0448097c74a984e870
+      internalID: 4119969856101524442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_132
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4acb73e6b06b00e4583377ba0c1a62b7
+      internalID: -4405842493336025026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_133
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 338b872068fc70547b00c4eca99e2dd5
+      internalID: -7644089904587991118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_134
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 183a9f3644e00784da8ef86750bfb59f
+      internalID: 9181400440197447136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_135
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 466214998f281c347bfa0132a48d874b
+      internalID: -2713416656278297240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_136
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d76307850bc1b104db6c5c60d9e39651
+      internalID: 8045017605179093273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_137
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0023edb942e1feb4090583d547ae98a4
+      internalID: -8358030866977520602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_138
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 963648b8acad51a4791a62d0f1cc05f0
+      internalID: 3601835131366368322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_139
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2a71a47456acf04f97ad335dac4d88d
+      internalID: 3420627214727390649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_140
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23383c486aae2514a8dcbd7512d6bacd
+      internalID: 6336491396577295044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_141
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92504b6b8dcb2754885200f564efeef3
+      internalID: 188506177999541390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_142
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cd2beadea5b789409244a8e2454449e
+      internalID: -4902613610776686295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_143
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e46908d4f07336849a028a50912c0697
+      internalID: -112819219949059270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_144
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8717ac0d25c4564bbf5c52ae86eb815
+      internalID: -3464545610066779256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_145
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ef8d0853a1dbc643a63ec85bb91f1ce
+      internalID: -5434430475318055306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_146
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc116d2b12174554e9205cd013fe8891
+      internalID: -4682097793677625096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_147
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96a19a7afbd6931498cd0769cabd8a83
+      internalID: -7575687228091050411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_148
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d47e2789dddc81d489ce8321009a9a74
+      internalID: -8579085780941755637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_149
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 229945c1b83b7b94d95bc760f4642b3f
+      internalID: 3409560641656667396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_150
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27bfa350a85a6204b81cef67e451cfc2
+      internalID: 5760244625718417783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_151
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8788d70e7ed60f547bcecdad09c96249
+      internalID: -8359194485173790607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_152
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d9f82d84821f984e9c540dfbc279979
+      internalID: 6403649188656612061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_153
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa1ef8e6bba6e33499effb8b56622c7b
+      internalID: 6563567110687847489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_154
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8973a5355e5a82f4fbdff8b92896bd6d
+      internalID: 4910981978174500761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_155
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 345bf2935b7bb2540b5ed457e80bce38
+      internalID: 5228558898996932800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_156
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 600625cbb91eef24cac19a7185b6825d
+      internalID: -6829854067909079075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_157
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb0fd977552891d43b0d5a1302e0a027
+      internalID: -4542387097216128770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_158
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc2f6ab1a21ebd449bc022d96d77587d
+      internalID: -1624874046955168524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_159
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 506b4f5ed477bfb499eac48637cf827d
+      internalID: -5731751452023285416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_160
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98c92e2122f493c468f425dc884ee9be
+      internalID: 8917214178696262673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_161
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d840c6a1fe0f940429d0bc49adae2b27
+      internalID: -5422710547085231555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_162
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17648616ca6307f4fafa5f63c633d3cd
+      internalID: -3826918846199098554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_163
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9c177a138acbae449f03639a3ad1a53
+      internalID: 2235608991027068911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_164
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f72dded551719e4ab5caa813b6d45db
+      internalID: -2204316151977200195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_165
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a378b189e13e49b4fb315587368c48c8
+      internalID: 4720398023699023724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_166
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e16cac34ffd0ea4c8a59989d10f9e7e
+      internalID: -6099636001319387912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_167
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da34a12e8814862439682b0f4dbad326
+      internalID: 5937769457833681847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_168
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 897f09f7193747b499393ef308ba381a
+      internalID: -1633762120896279112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_169
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: decdf26ea65740d439eac462754a463c
+      internalID: -3558954331177032879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_170
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d861bb204d5af594f800d2c41990de95
+      internalID: 5141658316722603174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_171
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aa2881b5ca706d4fa931b0360064c8d
+      internalID: -4602116191563846750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_172
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6db70cceb3a460045be8c2e861d1b53c
+      internalID: 7933869341299174980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_173
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d375b71bc8bbae54c8fbeff5650fb8fb
+      internalID: 5245763339485614072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_174
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05645a44f90217e4da3991d534ffc355
+      internalID: 3970971979082744992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_175
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55ce9187374d9ce4184eff20a8762e49
+      internalID: -3831687626864880865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_176
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 533b028b439eea7418cfd6ec0e32e7ac
+      internalID: -3511792255242150583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_177
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b59e6d8509b81d441b3a917c48129403
+      internalID: 1010345400519736902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_178
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 106ecf54374bb1044bbe3ecde8c4b0aa
+      internalID: -6085223289656565659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_179
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 261535aaa0cfef249a7bb887800af5ad
+      internalID: 3518886433297066847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_180
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4481b4ca68fad2246b758f025dffc17b
+      internalID: -493408138871707459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_181
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eea40a677d8d5641be1d59a369c4067
+      internalID: 3414630661784565065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_182
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e7373be64009ac45b8d4c7e7943f9be
+      internalID: 807925362167545364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_183
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9c1fb17a7a2ec24f9383d987feab791
+      internalID: -1726786796390378704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_184
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da24ab2454f48334eba7d496105bec84
+      internalID: 7293128808209775709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_185
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ea0da0194e265d4fa7e1919aaac21ab
+      internalID: -3159943765407563887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_186
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 747afe977f288254c9588939091277e9
+      internalID: 5853579282687808326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_187
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a78c76ed781577e4e8fb700c259c8a2c
+      internalID: -7885027441640375810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_188
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5409368f1428f824d894fae89401794a
+      internalID: 3370130651912786624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_189
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4bcfa38e1aab3042a3c38de434da597
+      internalID: 4023125916874591924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_190
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 767c7d735bb093b45be678314b16616d
+      internalID: -4911998538439053132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_191
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c330c1f7840172f448e27b0b1e0e3766
+      internalID: 408400044654486276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_192
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a583344054f02f14890d1049e7fd4f49
+      internalID: -4098893229526751897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_193
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 878ec987dee4c1f4bba9e31636ec1a52
+      internalID: 8281524938676493556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_194
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 298400333d0e9bc479e81c261a61da7b
+      internalID: -8376114436537385686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_195
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d77fbe99d9d60b442aefdbf15ffe0678
+      internalID: -3879445407468116505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_196
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b59d1274e2220dd498ab0203422bb0a5
+      internalID: -2452958866951094391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_197
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9d7cac4618b09846a4633acaa9e157d
+      internalID: -8597039021819546602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_198
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd7311ac9e5a1444b8f60dda95369a9c
+      internalID: 6137050054881603829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_199
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ce7e06e21d831541985bd38714b905c
+      internalID: 1951244174005354990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_200
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 848c71213874a634ba9c62bc666bb16f
+      internalID: 8788310428298916423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_201
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07ba47caba2191948a45b4cef82be1fd
+      internalID: 7987250890417649119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_202
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b09df9b74e8d6a4aae0f71742c162b0
+      internalID: -1635974775924285184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_203
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ae47b5a7214fa4cb6e02686d5a0cff
+      internalID: -5815430885592764432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_204
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46b69b522e462ad43b8853e18a4be005
+      internalID: 119722942156270709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_205
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a23c728fa676b4f810f16aa76906d6
+      internalID: 2263882561275144469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_206
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77654c84fb36e044293e19f3c094162f
+      internalID: -152163969016558440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_207
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2018164d5b7d0cf40b77ec41db495898
+      internalID: -8944674456039397423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_208
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 474687e4551f4f64e8b8e570aa63b89e
+      internalID: 1851226167361009095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_209
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 252d7fb2f5b7ab242864074dc801b8c6
+      internalID: -2403165208026096731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_210
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d41d642171cee44cb3ecd5c0e444172
+      internalID: -6848608121363514184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_211
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52ee08e526c95da4e9a6236897faa1cc
+      internalID: 8949515276808224532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_212
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ef9e25dc83b34e44828243e14dc0835
+      internalID: 3281386923396279998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_213
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5df4be67025c404f8851e2089323fe9
+      internalID: -1653474320865094749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_214
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09f820ec0b4c6dd4fa8279537827b410
+      internalID: 7415330882839846427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_215
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66a164ab58b30994896ab72bd8e3ac1e
+      internalID: 6869031605393974842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_216
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c9f66983bfab2946933679ffbb1a2d3
+      internalID: 3830598228156957025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_217
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06360af233139704586a0c5608bd893d
+      internalID: -2533787696455105282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_218
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 883408197159c624e8198350b40a97f6
+      internalID: -3072600835881905212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_219
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f94fd2442243d14d8ba1a570b49d07d
+      internalID: -2639188688293083322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_220
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20415a50ba551684486545135eb3d017
+      internalID: -6808618157730908631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_221
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f04089626460d1a489f1eddbe2731a19
+      internalID: -1350942195498528107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_222
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5db157d258d5b3542a033c95751abc2d
+      internalID: 8758905200130452180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_223
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68fd58788101aad40982c11f93673163
+      internalID: 5164615597409448156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_224
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6f55eecb6f3c854f8a1792decfd6dee
+      internalID: -8128425937606529620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_225
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 968c14a8851722448a4b0d4976a36480
+      internalID: 7234107063311745434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_226
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee64f9ae9291dc540a4bdd12d5aeb8f6
+      internalID: 3960806336188465312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_227
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a91faad3c29d5542b1601aaff1ef2c9
+      internalID: 4650770104493230798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_228
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a64d40492a704f4aa41e09d3b5ce7ac
+      internalID: 7845664403366959644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_229
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 657d188636c880f4dae7232c62c3340d
+      internalID: -2006175946185726095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_230
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3a1104864159a44a92d6811359bda1b
+      internalID: 4066808354157662565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_231
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94713abcd0f998942acc24efac018d41
+      internalID: 2764900436558832052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_232
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 672c868b5828fdf4d951bc24711f0731
+      internalID: -2693486728858860349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_A_Fortress3_233
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fff81b215b7731d468643b50ae1c155b
+      internalID: -8108028012386541618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Set_A_Fortress3_21: 985533624858720197
+      Set_A_Fortress3_80: -7432208773340291083
+      Set_A_Fortress3_122: -6348332549048355898
+      Set_A_Fortress3_104: 2660377228174452954
+      Set_A_Fortress3_120: -3262265559824988032
+      Set_A_Fortress3_204: 119722942156270709
+      Set_A_Fortress3_48: 1046546027527560524
+      Set_A_Fortress3_207: -8944674456039397423
+      Set_A_Fortress3_202: -1635974775924285184
+      Set_A_Fortress3_109: 8942608561079688605
+      Set_A_Fortress3_156: -6829854067909079075
+      Set_A_Fortress3_164: -2204316151977200195
+      Set_A_Fortress3_140: 6336491396577295044
+      Set_A_Fortress3_34: -1781051267607795209
+      Set_A_Fortress3_12: -3835621982795133590
+      Set_A_Fortress3_68: -6449072522977311432
+      Set_A_Fortress3_32: -1553109777817535193
+      Set_A_Fortress3_194: -8376114436537385686
+      Set_A_Fortress3_226: 3960806336188465312
+      Set_A_Fortress3_76: -5054451452864466341
+      Set_A_Fortress3_49: 6537518820795641007
+      Set_A_Fortress3_105: -8518575859267921536
+      Set_A_Fortress3_115: 3357635094886558408
+      Set_A_Fortress3_172: 7933869341299174980
+      Set_A_Fortress3_18: 7503718233647949101
+      Set_A_Fortress3_149: 3409560641656667396
+      Set_A_Fortress3_170: 5141658316722603174
+      Set_A_Fortress3_10: 2162837588093330383
+      Set_A_Fortress3_53: -5044172235932096637
+      Set_A_Fortress3_60: -5412680397547063340
+      Set_A_Fortress3_40: -50690270611306550
+      Set_A_Fortress3_124: -4792611623576632973
+      Set_A_Fortress3_173: 5245763339485614072
+      Set_A_Fortress3_217: -2533787696455105282
+      Set_A_Fortress3_130: 6946809683355167293
+      Set_A_Fortress3_171: -4602116191563846750
+      Set_A_Fortress3_220: -6808618157730908631
+      Set_A_Fortress3_224: -8128425937606529620
+      Set_A_Fortress3_38: 4140495418838169430
+      Set_A_Fortress3_96: 2648687201952715190
+      Set_A_Fortress3_208: 1851226167361009095
+      Set_A_Fortress3_121: 5392867857153386379
+      Set_A_Fortress3_133: -7644089904587991118
+      Set_A_Fortress3_83: 5094395925932625211
+      Set_A_Fortress3_134: 9181400440197447136
+      Set_A_Fortress3_126: 7848533492981888053
+      Set_A_Fortress3_33: 1995672876764333260
+      Set_A_Fortress3_101: -4666150273107426051
+      Set_A_Fortress3_211: 8949515276808224532
+      Set_A_Fortress3_9: -8424644282363456599
+      Set_A_Fortress3_145: -5434430475318055306
+      Set_A_Fortress3_187: -7885027441640375810
+      Set_A_Fortress3_147: -7575687228091050411
+      Set_A_Fortress3_197: -8597039021819546602
+      Set_A_Fortress3_155: 5228558898996932800
+      Set_A_Fortress3_148: -8579085780941755637
+      Set_A_Fortress3_179: 3518886433297066847
+      Set_A_Fortress3_36: -7935690103745499881
+      Set_A_Fortress3_51: -2221671947093731893
+      Set_A_Fortress3_103: -1262443622460477771
+      Set_A_Fortress3_166: -6099636001319387912
+      Set_A_Fortress3_227: 4650770104493230798
+      Set_A_Fortress3_218: -3072600835881905212
+      Set_A_Fortress3_72: 4567535759043142935
+      Set_A_Fortress3_150: 5760244625718417783
+      Set_A_Fortress3_169: -3558954331177032879
+      Set_A_Fortress3_139: 3420627214727390649
+      Set_A_Fortress3_228: 7845664403366959644
+      Set_A_Fortress3_162: -3826918846199098554
+      Set_A_Fortress3_86: -3690945831527178301
+      Set_A_Fortress3_25: 47292918021821071
+      Set_A_Fortress3_212: 3281386923396279998
+      Set_A_Fortress3_196: -2452958866951094391
+      Set_A_Fortress3_99: -8518752415115356704
+      Set_A_Fortress3_195: -3879445407468116505
+      Set_A_Fortress3_5: 8552707825494398121
+      Set_A_Fortress3_192: -4098893229526751897
+      Set_A_Fortress3_75: -132192730190092351
+      Set_A_Fortress3_56: 2510024760235823338
+      Set_A_Fortress3_95: 3134031300297485539
+      Set_A_Fortress3_203: -5815430885592764432
+      Set_A_Fortress3_108: 8172830158854905720
+      Set_A_Fortress3_119: 1290794925422556023
+      Set_A_Fortress3_161: -5422710547085231555
+      Set_A_Fortress3_193: 8281524938676493556
+      Set_A_Fortress3_232: -2693486728858860349
+      Set_A_Fortress3_8: 4273631906566659232
+      Set_A_Fortress3_137: -8358030866977520602
+      Set_A_Fortress3_19: 8602356347601292810
+      Set_A_Fortress3_200: 8788310428298916423
+      Set_A_Fortress3_20: 3507799157449335228
+      Set_A_Fortress3_59: 5440765763568551930
+      Set_A_Fortress3_199: 1951244174005354990
+      Set_A_Fortress3_4: 5788634165987214657
+      Set_A_Fortress3_55: 3078254837248220684
+      Set_A_Fortress3_184: 7293128808209775709
+      Set_A_Fortress3_113: -3167088412432768357
+      Set_A_Fortress3_2: -8238000021264958187
+      Set_A_Fortress3_50: 5207628821606478279
+      Set_A_Fortress3_110: 8190159395573655475
+      Set_A_Fortress3_28: 951038392484202085
+      Set_A_Fortress3_151: -8359194485173790607
+      Set_A_Fortress3_112: -5526192771075076678
+      Set_A_Fortress3_35: 7173437577987527971
+      Set_A_Fortress3_129: 7928131788939681320
+      Set_A_Fortress3_69: 1136958089217921885
+      Set_A_Fortress3_84: 6737324704501134563
+      Set_A_Fortress3_168: -1633762120896279112
+      Set_A_Fortress3_88: 4478290037083209345
+      Set_A_Fortress3_233: -8108028012386541618
+      Set_A_Fortress3_74: 1242884834023737449
+      Set_A_Fortress3_15: 2425316772394520323
+      Set_A_Fortress3_230: 4066808354157662565
+      Set_A_Fortress3_189: 4023125916874591924
+      Set_A_Fortress3_222: 8758905200130452180
+      Set_A_Fortress3_17: -8419633424107314717
+      Set_A_Fortress3_132: -4405842493336025026
+      Set_A_Fortress3_231: 2764900436558832052
+      Set_A_Fortress3_154: 4910981978174500761
+      Set_A_Fortress3_165: 4720398023699023724
+      Set_A_Fortress3_58: -5029720607294051255
+      Set_A_Fortress3_191: 408400044654486276
+      Set_A_Fortress3_26: -3561121750205458448
+      Set_A_Fortress3_153: 6563567110687847489
+      Set_A_Fortress3_128: -405631825391461130
+      Set_A_Fortress3_125: -1800911647171487677
+      Set_A_Fortress3_1: 7926741239547260338
+      Set_A_Fortress3_14: -545005397467862427
+      Set_A_Fortress3_186: 5853579282687808326
+      Set_A_Fortress3_141: 188506177999541390
+      Set_A_Fortress3_118: -6886251516289692892
+      Set_A_Fortress3_82: -3286777349312865949
+      Set_A_Fortress3_178: -6085223289656565659
+      Set_A_Fortress3_98: -4896929980995335159
+      Set_A_Fortress3_13: 5079233807666620458
+      Set_A_Fortress3_39: -2741545248132281693
+      Set_A_Fortress3_6: 2215802859546720566
+      Set_A_Fortress3_85: -8378504049270497388
+      Set_A_Fortress3_29: 3377204151797093405
+      Set_A_Fortress3_45: 4585887619884907483
+      Set_A_Fortress3_206: -152163969016558440
+      Set_A_Fortress3_223: 5164615597409448156
+      Set_A_Fortress3_16: -6739413636075964180
+      Set_A_Fortress3_188: 3370130651912786624
+      Set_A_Fortress3_221: -1350942195498528107
+      Set_A_Fortress3_167: 5937769457833681847
+      Set_A_Fortress3_46: 3331979765738509841
+      Set_A_Fortress3_22: 8547786180000201433
+      Set_A_Fortress3_106: -3363358525065785295
+      Set_A_Fortress3_157: -4542387097216128770
+      Set_A_Fortress3_176: -3511792255242150583
+      Set_A_Fortress3_144: -3464545610066779256
+      Set_A_Fortress3_210: -6848608121363514184
+      Set_A_Fortress3_180: -493408138871707459
+      Set_A_Fortress3_94: -1756324201364729976
+      Set_A_Fortress3_198: 6137050054881603829
+      Set_A_Fortress3_160: 8917214178696262673
+      Set_A_Fortress3_102: -2038507264799680855
+      Set_A_Fortress3_81: 2668174393462294522
+      Set_A_Fortress3_215: 6869031605393974842
+      Set_A_Fortress3_87: 6973783330459135763
+      Set_A_Fortress3_30: 6155870813485577145
+      Set_A_Fortress3_163: 2235608991027068911
+      Set_A_Fortress3_131: 4119969856101524442
+      Set_A_Fortress3_205: 2263882561275144469
+      Set_A_Fortress3_65: -1438228695400132271
+      Set_A_Fortress3_159: -5731751452023285416
+      Set_A_Fortress3_216: 3830598228156957025
+      Set_A_Fortress3_177: 1010345400519736902
+      Set_A_Fortress3_61: 5191837228273471408
+      Set_A_Fortress3_47: -3249497641170841110
+      Set_A_Fortress3_97: -3588729922826486717
+      Set_A_Fortress3_127: -91258051534087970
+      Set_A_Fortress3_52: 4017114930594205871
+      Set_A_Fortress3_63: -4538393897731625633
+      Set_A_Fortress3_185: -3159943765407563887
+      Set_A_Fortress3_175: -3831687626864880865
+      Set_A_Fortress3_90: 3003886385038503638
+      Set_A_Fortress3_43: 361154068564825778
+      Set_A_Fortress3_77: 8702886012683590299
+      Set_A_Fortress3_92: 1004547554716985177
+      Set_A_Fortress3_44: 2574366982398458699
+      Set_A_Fortress3_64: 2324212006637915009
+      Set_A_Fortress3_37: 4994927085407719639
+      Set_A_Fortress3_41: -2486141608503088392
+      Set_A_Fortress3_3: 722482283397367810
+      Set_A_Fortress3_7: 6788375385821409707
+      Set_A_Fortress3_71: -1394998258018630719
+      Set_A_Fortress3_89: 1139183855023577634
+      Set_A_Fortress3_116: 1656689108744969229
+      Set_A_Fortress3_209: -2403165208026096731
+      Set_A_Fortress3_93: -8324429274039605175
+      Set_A_Fortress3_213: -1653474320865094749
+      Set_A_Fortress3_91: 646910087258704577
+      Set_A_Fortress3_117: -8207433890641537031
+      Set_A_Fortress3_54: -5711226931295905064
+      Set_A_Fortress3_67: 2338845649314358357
+      Set_A_Fortress3_123: 1846220822106361718
+      Set_A_Fortress3_78: 3424710729054658954
+      Set_A_Fortress3_73: -4384953127231697305
+      Set_A_Fortress3_142: -4902613610776686295
+      Set_A_Fortress3_190: -4911998538439053132
+      Set_A_Fortress3_66: 8288599162790507934
+      Set_A_Fortress3_0: 6910237671190538627
+      Set_A_Fortress3_24: 7489129854203941485
+      Set_A_Fortress3_152: 6403649188656612061
+      Set_A_Fortress3_62: -1053925553409624297
+      Set_A_Fortress3_57: -8700378576353824592
+      Set_A_Fortress3_183: -1726786796390378704
+      Set_A_Fortress3_135: -2713416656278297240
+      Set_A_Fortress3_107: -764544789892274030
+      Set_A_Fortress3_181: 3414630661784565065
+      Set_A_Fortress3_136: 8045017605179093273
+      Set_A_Fortress3_214: 7415330882839846427
+      Set_A_Fortress3_182: 807925362167545364
+      Set_A_Fortress3_219: -2639188688293083322
+      Set_A_Fortress3_158: -1624874046955168524
+      Set_A_Fortress3_225: 7234107063311745434
+      Set_A_Fortress3_27: -438099325986985866
+      Set_A_Fortress3_31: -9194066361331756878
+      Set_A_Fortress3_42: -8388170557514370790
+      Set_A_Fortress3_79: -8790414271893423516
+      Set_A_Fortress3_174: 3970971979082744992
+      Set_A_Fortress3_201: 7987250890417649119
+      Set_A_Fortress3_100: -4001592818757022029
+      Set_A_Fortress3_70: 8277502701305406026
+      Set_A_Fortress3_229: -2006175946185726095
+      Set_A_Fortress3_146: -4682097793677625096
+      Set_A_Fortress3_114: -5872416190787082346
+      Set_A_Fortress3_23: 849963746446599831
+      Set_A_Fortress3_11: -8510976523132840077
+      Set_A_Fortress3_111: -2764156813275298156
+      Set_A_Fortress3_143: -112819219949059270
+      Set_A_Fortress3_138: 3601835131366368322
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
